@@ -4,18 +4,22 @@
   <img src="media/logo.png" width="512" alt="Awesome Gemini Omni Logo">
 </p>
 
-Gemini Omni is Google's next-generation, natively multimodal AI model capable of seamlessly processing and generating text, code, images, audio, and video.
+Gemini Omni is Google's next-generation, natively multimodal AI model capable of seamlessly processing and generating text, code, images, audio, and video. The Gemini Omni Flash model is also officially available to try directly in the [Gemini App](https://gemini.google.com/).
 
 ## Contents
 
 - [Official Resources](#official-resources)
 - [Interactive Platforms](#interactive-platforms)
 - [Capabilities and Showcases](#capabilities-and-showcases)
+- [Tutorials and Courses](#tutorials-and-courses)
 
 ## Official Resources
 
 - [Official Product Page](https://deepmind.google/models/gemini-omni/) - Official overview of the Gemini Omni model architecture, native multimodality, and core features.
 - [Prompt Guide](https://deepmind.google/models/gemini-omni/prompt-guide/) - Official comprehensive guidelines by Google DeepMind for designing effective multimodal prompts.
+- [Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) - Official model card outlining technical specifications, training datasets, and safety mitigations for Gemini Omni Flash.
+- [Veo Prompt Guide](https://deepmind.google/models/veo/prompt-guide/) - Official guidelines by Google DeepMind for crafting high-fidelity video generation prompts in Veo.
+- [Ultimate Prompting Guide for Veo 3.1](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-veo-3-1) - In-depth prompt engineering and styling handbook from the Google Cloud blog for Veo 3.1.
 
 ## Interactive Platforms
 
@@ -40,6 +44,10 @@ Gemini Omni is Google's next-generation, natively multimodal AI model capable of
 ### Multimodal Interaction
 
 - [Visual Question Answering and Object Identification](https://x.com/shlomifruchter/status/2057289853336011224) - Interactive identification and reasoning of dynamic real-world objects.
+
+## Tutorials and Courses
+
+- [AI Agents for Image and Video Generation](https://www.deeplearning.ai/courses/ai-agents-for-image-and-video-generation) - Short course focused on building AI agents that automatically generate and refine media outputs.
 
 ## Contributing
 

@@ -24,6 +24,7 @@ Gemini Omni is Google's next-generation, natively multimodal AI model capable of
 ## Interactive Platforms
 
 - [Google Flow](https://flow.google/) - Creative canvas and workspace enabling interactive collaboration and native video editing powered by Gemini Omni.
+- [Gemini Omni Guide](https://www.ai-geminiomni.com) - Unofficial guide to Google Gemini Omni (capabilities, free access, pricing) plus a free prompt generator.
 
 ## Capabilities and Showcases
 
